@@ -1,0 +1,18 @@
+{
+  "name": "phrenewalpassportscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.999.0",
+    "cypress": "^8.5.0",
+    "dotenv": "^10.0.0",
+    "node-cron": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

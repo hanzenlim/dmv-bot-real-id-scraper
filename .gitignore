@@ -1,0 +1,3 @@
+node_modules
+cypress_cache
+.serverless
